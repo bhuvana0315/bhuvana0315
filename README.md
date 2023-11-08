@@ -5,7 +5,7 @@ I'm Microsoft Certified Azure Data Science Associate and Neo4j Certified Profess
 🔭 I’m currently working on a product Order-AI-Bot<br>
 📫 How to reach me:<br>
      LinkedIn: https://www.linkedin.com/in/bhuvana-gayathri-kanakala-035001209/<br>
-     Email : kbgayathri0915@gmail.com<br>
+     Email : kbgayathri0915@gmail.com
 [![An image of @bhuvana0315's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhuvana0315)](https://holopin.io/@bhuvana0315)
 
 <!--
